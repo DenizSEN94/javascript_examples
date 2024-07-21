@@ -11,14 +11,3 @@ Bu repository, JavaScript ile yazılmış üç farklı sayı işlemleri fonksiyo
 Kullanım:
 ```javascript
 friendNumbers({ sy1: 220, sy2: 284 });
-
-### Mükemmel Sayılar Bulma
-Kullanım:
-```javascript
-perfectNumbers({ sayi: 1000 });
-
-### Asal Sayılar Bulma
-Kullanım:
-```javascript
-primeNumbers({ sayi: 1000 });
-
