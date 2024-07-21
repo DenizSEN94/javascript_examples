@@ -6,4 +6,4 @@ Bu repository, JavaScript ile yazılmış üç farklı sayı işlemleri fonksiyo
 
 ### Arkadaş Sayılar Bulma
 
-`main.js` dosyasında yer alan fonksiyon bakabilirsiniz.
+`js/main.js` dosyasında yer alan fonksiyon bakabilirsiniz.
